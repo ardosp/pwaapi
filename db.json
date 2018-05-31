@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Blackish oystercatcher","category":"Orange"},
+{"id":2,"name":"Waved albatross","category":"Orange"},
+{"id":3,"name":"Snowy owl","category":"Goldenrod"},
+{"id":4,"name":"Red sheep","category":"Green"},
+{"id":5,"name":"Devil, tasmanian","category":"Violet"},
+{"id":6,"name":"Paddy heron (unidentified)","category":"Crimson"},
+{"id":7,"name":"Desert spiny lizard","category":"Mauv"},
+{"id":8,"name":"Lechwe, kafue flats","category":"Indigo"},
+{"id":9,"name":"Australian magpie","category":"Mauv"},
+{"id":10,"name":"White-throated robin","category":"Blue"},
+{"id":11,"name":"Wild water buffalo","category":"Red"},
+{"id":12,"name":"Cormorant, king","category":"Violet"},
+{"id":13,"name":"Rat, arboral spiny","category":"Crimson"},
+{"id":14,"name":"Peccary, white-lipped","category":"Teal"},
+{"id":15,"name":"Armadillo, giant","category":"Teal"},
+{"id":16,"name":"Wapiti, elk,","category":"Goldenrod"},
+{"id":17,"name":"Duiker, common","category":"Aquamarine"},
+{"id":18,"name":"Woolly-necked stork","category":"Purple"},
+{"id":19,"name":"Blue-breasted cordon bleu","category":"Mauv"},
+{"id":20,"name":"Raccoon dog","category":"Yellow"}
+]
+}
